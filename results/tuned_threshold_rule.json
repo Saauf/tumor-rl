@@ -1,0 +1,722 @@
+{
+ "off_below": 0.55,
+ "on_above": 0.6,
+ "train_return": 103.94358974358981,
+ "grid": [
+  {
+   "return": 98.8222222222224,
+   "off_below": 0.1,
+   "on_above": 0.15
+  },
+  {
+   "return": 98.99829059829075,
+   "off_below": 0.1,
+   "on_above": 0.2
+  },
+  {
+   "return": 99.21538461538476,
+   "off_below": 0.1,
+   "on_above": 0.25
+  },
+  {
+   "return": 99.39401709401726,
+   "off_below": 0.1,
+   "on_above": 0.3
+  },
+  {
+   "return": 99.5837606837608,
+   "off_below": 0.1,
+   "on_above": 0.35
+  },
+  {
+   "return": 99.84615384615397,
+   "off_below": 0.1,
+   "on_above": 0.4
+  },
+  {
+   "return": 100.0452991452993,
+   "off_below": 0.1,
+   "on_above": 0.45
+  },
+  {
+   "return": 100.24957264957281,
+   "off_below": 0.1,
+   "on_above": 0.5
+  },
+  {
+   "return": 100.53846153846168,
+   "off_below": 0.1,
+   "on_above": 0.55
+  },
+  {
+   "return": 100.72735042735059,
+   "off_below": 0.1,
+   "on_above": 0.6
+  },
+  {
+   "return": 99.94700854700869,
+   "off_below": 0.1,
+   "on_above": 0.65
+  },
+  {
+   "return": 96.66153846153857,
+   "off_below": 0.1,
+   "on_above": 0.7
+  },
+  {
+   "return": 95.08547008547019,
+   "off_below": 0.1,
+   "on_above": 0.75
+  },
+  {
+   "return": 93.49658119658129,
+   "off_below": 0.1,
+   "on_above": 0.8
+  },
+  {
+   "return": 92.24017094017103,
+   "off_below": 0.1,
+   "on_above": 0.85
+  },
+  {
+   "return": 91.25384615384621,
+   "off_below": 0.1,
+   "on_above": 0.9
+  },
+  {
+   "return": 89.73247863247869,
+   "off_below": 0.1,
+   "on_above": 0.95
+  },
+  {
+   "return": 87.53504273504278,
+   "off_below": 0.1,
+   "on_above": 1.0
+  },
+  {
+   "return": 99.51709401709415,
+   "off_below": 0.15,
+   "on_above": 0.2
+  },
+  {
+   "return": 99.77264957264971,
+   "off_below": 0.15,
+   "on_above": 0.25
+  },
+  {
+   "return": 100.03418803418816,
+   "off_below": 0.15,
+   "on_above": 0.3
+  },
+  {
+   "return": 100.23675213675226,
+   "off_below": 0.15,
+   "on_above": 0.35
+  },
+  {
+   "return": 100.48034188034202,
+   "off_below": 0.15,
+   "on_above": 0.4
+  },
+  {
+   "return": 100.73675213675227,
+   "off_below": 0.15,
+   "on_above": 0.45
+  },
+  {
+   "return": 100.9794871794873,
+   "off_below": 0.15,
+   "on_above": 0.5
+  },
+  {
+   "return": 101.21623931623941,
+   "off_below": 0.15,
+   "on_above": 0.55
+  },
+  {
+   "return": 101.52649572649587,
+   "off_below": 0.15,
+   "on_above": 0.6
+  },
+  {
+   "return": 101.70085470085482,
+   "off_below": 0.15,
+   "on_above": 0.65
+  },
+  {
+   "return": 101.07008547008556,
+   "off_below": 0.15,
+   "on_above": 0.7
+  },
+  {
+   "return": 100.13333333333341,
+   "off_below": 0.15,
+   "on_above": 0.75
+  },
+  {
+   "return": 95.80256410256419,
+   "off_below": 0.15,
+   "on_above": 0.8
+  },
+  {
+   "return": 92.36666666666673,
+   "off_below": 0.15,
+   "on_above": 0.85
+  },
+  {
+   "return": 88.10769230769236,
+   "off_below": 0.15,
+   "on_above": 0.9
+  },
+  {
+   "return": 87.30683760683765,
+   "off_below": 0.15,
+   "on_above": 0.95
+  },
+  {
+   "return": 84.02820512820519,
+   "off_below": 0.15,
+   "on_above": 1.0
+  },
+  {
+   "return": 100.16923076923091,
+   "off_below": 0.2,
+   "on_above": 0.25
+  },
+  {
+   "return": 100.42564102564116,
+   "off_below": 0.2,
+   "on_above": 0.3
+  },
+  {
+   "return": 100.6726495726497,
+   "off_below": 0.2,
+   "on_above": 0.35
+  },
+  {
+   "return": 100.97350427350437,
+   "off_below": 0.2,
+   "on_above": 0.4
+  },
+  {
+   "return": 101.25128205128215,
+   "off_below": 0.2,
+   "on_above": 0.45
+  },
+  {
+   "return": 101.55811965811976,
+   "off_below": 0.2,
+   "on_above": 0.5
+  },
+  {
+   "return": 101.69059829059837,
+   "off_below": 0.2,
+   "on_above": 0.55
+  },
+  {
+   "return": 101.95384615384623,
+   "off_below": 0.2,
+   "on_above": 0.6
+  },
+  {
+   "return": 100.03760683760692,
+   "off_below": 0.2,
+   "on_above": 0.65
+  },
+  {
+   "return": 97.53247863247869,
+   "off_below": 0.2,
+   "on_above": 0.7
+  },
+  {
+   "return": 97.4504273504274,
+   "off_below": 0.2,
+   "on_above": 0.75
+  },
+  {
+   "return": 94.3376068376069,
+   "off_below": 0.2,
+   "on_above": 0.8
+  },
+  {
+   "return": 92.06324786324791,
+   "off_below": 0.2,
+   "on_above": 0.85
+  },
+  {
+   "return": 89.06324786324792,
+   "off_below": 0.2,
+   "on_above": 0.9
+  },
+  {
+   "return": 86.85897435897441,
+   "off_below": 0.2,
+   "on_above": 0.95
+  },
+  {
+   "return": 83.70940170940173,
+   "off_below": 0.2,
+   "on_above": 1.0
+  },
+  {
+   "return": 100.75726495726506,
+   "off_below": 0.25,
+   "on_above": 0.3
+  },
+  {
+   "return": 101.14358974358984,
+   "off_below": 0.25,
+   "on_above": 0.35
+  },
+  {
+   "return": 101.43589743589754,
+   "off_below": 0.25,
+   "on_above": 0.4
+  },
+  {
+   "return": 101.76837606837616,
+   "off_below": 0.25,
+   "on_above": 0.45
+  },
+  {
+   "return": 102.05128205128214,
+   "off_below": 0.25,
+   "on_above": 0.5
+  },
+  {
+   "return": 102.26153846153852,
+   "off_below": 0.25,
+   "on_above": 0.55
+  },
+  {
+   "return": 102.3239316239317,
+   "off_below": 0.25,
+   "on_above": 0.6
+  },
+  {
+   "return": 101.27692307692314,
+   "off_below": 0.25,
+   "on_above": 0.65
+  },
+  {
+   "return": 100.12991452991459,
+   "off_below": 0.25,
+   "on_above": 0.7
+  },
+  {
+   "return": 96.40940170940175,
+   "off_below": 0.25,
+   "on_above": 0.75
+  },
+  {
+   "return": 92.62393162393165,
+   "off_below": 0.25,
+   "on_above": 0.8
+  },
+  {
+   "return": 91.66837606837612,
+   "off_below": 0.25,
+   "on_above": 0.85
+  },
+  {
+   "return": 89.58461538461545,
+   "off_below": 0.25,
+   "on_above": 0.9
+  },
+  {
+   "return": 87.44102564102566,
+   "off_below": 0.25,
+   "on_above": 0.95
+  },
+  {
+   "return": 83.7709401709402,
+   "off_below": 0.25,
+   "on_above": 1.0
+  },
+  {
+   "return": 101.47948717948728,
+   "off_below": 0.3,
+   "on_above": 0.35
+  },
+  {
+   "return": 101.89487179487186,
+   "off_below": 0.3,
+   "on_above": 0.4
+  },
+  {
+   "return": 102.16324786324795,
+   "off_below": 0.3,
+   "on_above": 0.45
+  },
+  {
+   "return": 102.39230769230775,
+   "off_below": 0.3,
+   "on_above": 0.5
+  },
+  {
+   "return": 102.66239316239323,
+   "off_below": 0.3,
+   "on_above": 0.55
+  },
+  {
+   "return": 102.77008547008552,
+   "off_below": 0.3,
+   "on_above": 0.6
+  },
+  {
+   "return": 101.09829059829067,
+   "off_below": 0.3,
+   "on_above": 0.65
+  },
+  {
+   "return": 101.01282051282055,
+   "off_below": 0.3,
+   "on_above": 0.7
+  },
+  {
+   "return": 97.62136752136759,
+   "off_below": 0.3,
+   "on_above": 0.75
+  },
+  {
+   "return": 92.79914529914535,
+   "off_below": 0.3,
+   "on_above": 0.8
+  },
+  {
+   "return": 91.27692307692313,
+   "off_below": 0.3,
+   "on_above": 0.85
+  },
+  {
+   "return": 89.31623931623936,
+   "off_below": 0.3,
+   "on_above": 0.9
+  },
+  {
+   "return": 86.96923076923079,
+   "off_below": 0.3,
+   "on_above": 0.95
+  },
+  {
+   "return": 82.67179487179489,
+   "off_below": 0.3,
+   "on_above": 1.0
+  },
+  {
+   "return": 102.15299145299153,
+   "off_below": 0.35,
+   "on_above": 0.4
+  },
+  {
+   "return": 102.42051282051291,
+   "off_below": 0.35,
+   "on_above": 0.45
+  },
+  {
+   "return": 102.70170940170948,
+   "off_below": 0.35,
+   "on_above": 0.5
+  },
+  {
+   "return": 103.00085470085476,
+   "off_below": 0.35,
+   "on_above": 0.55
+  },
+  {
+   "return": 102.89230769230774,
+   "off_below": 0.35,
+   "on_above": 0.6
+  },
+  {
+   "return": 101.56153846153853,
+   "off_below": 0.35,
+   "on_above": 0.65
+  },
+  {
+   "return": 102.1367521367522,
+   "off_below": 0.35,
+   "on_above": 0.7
+  },
+  {
+   "return": 98.52735042735048,
+   "off_below": 0.35,
+   "on_above": 0.75
+  },
+  {
+   "return": 94.10769230769237,
+   "off_below": 0.35,
+   "on_above": 0.8
+  },
+  {
+   "return": 92.00512820512826,
+   "off_below": 0.35,
+   "on_above": 0.85
+  },
+  {
+   "return": 89.37948717948723,
+   "off_below": 0.35,
+   "on_above": 0.9
+  },
+  {
+   "return": 87.13504273504276,
+   "off_below": 0.35,
+   "on_above": 0.95
+  },
+  {
+   "return": 84.59059829059832,
+   "off_below": 0.35,
+   "on_above": 1.0
+  },
+  {
+   "return": 102.67521367521375,
+   "off_below": 0.4,
+   "on_above": 0.45
+  },
+  {
+   "return": 103.10427350427358,
+   "off_below": 0.4,
+   "on_above": 0.5
+  },
+  {
+   "return": 103.16324786324792,
+   "off_below": 0.4,
+   "on_above": 0.55
+  },
+  {
+   "return": 103.09658119658128,
+   "off_below": 0.4,
+   "on_above": 0.6
+  },
+  {
+   "return": 102.08205128205135,
+   "off_below": 0.4,
+   "on_above": 0.65
+  },
+  {
+   "return": 100.56581196581203,
+   "off_below": 0.4,
+   "on_above": 0.7
+  },
+  {
+   "return": 95.87948717948724,
+   "off_below": 0.4,
+   "on_above": 0.75
+  },
+  {
+   "return": 92.55128205128212,
+   "off_below": 0.4,
+   "on_above": 0.8
+  },
+  {
+   "return": 91.21196581196585,
+   "off_below": 0.4,
+   "on_above": 0.85
+  },
+  {
+   "return": 88.36752136752142,
+   "off_below": 0.4,
+   "on_above": 0.9
+  },
+  {
+   "return": 85.89743589743591,
+   "off_below": 0.4,
+   "on_above": 0.95
+  },
+  {
+   "return": 83.3854700854701,
+   "off_below": 0.4,
+   "on_above": 1.0
+  },
+  {
+   "return": 103.32478632478639,
+   "off_below": 0.45,
+   "on_above": 0.5
+  },
+  {
+   "return": 103.0119658119659,
+   "off_below": 0.45,
+   "on_above": 0.55
+  },
+  {
+   "return": 102.72307692307697,
+   "off_below": 0.45,
+   "on_above": 0.6
+  },
+  {
+   "return": 99.66923076923084,
+   "off_below": 0.45,
+   "on_above": 0.65
+  },
+  {
+   "return": 98.99401709401715,
+   "off_below": 0.45,
+   "on_above": 0.7
+  },
+  {
+   "return": 93.39658119658124,
+   "off_below": 0.45,
+   "on_above": 0.75
+  },
+  {
+   "return": 91.98461538461544,
+   "off_below": 0.45,
+   "on_above": 0.8
+  },
+  {
+   "return": 90.5666666666667,
+   "off_below": 0.45,
+   "on_above": 0.85
+  },
+  {
+   "return": 87.49230769230773,
+   "off_below": 0.45,
+   "on_above": 0.9
+  },
+  {
+   "return": 86.52222222222225,
+   "off_below": 0.45,
+   "on_above": 0.95
+  },
+  {
+   "return": 82.69658119658122,
+   "off_below": 0.45,
+   "on_above": 1.0
+  },
+  {
+   "return": 103.75384615384623,
+   "off_below": 0.5,
+   "on_above": 0.55
+  },
+  {
+   "return": 103.09487179487188,
+   "off_below": 0.5,
+   "on_above": 0.6
+  },
+  {
+   "return": 99.34102564102571,
+   "off_below": 0.5,
+   "on_above": 0.65
+  },
+  {
+   "return": 95.31282051282056,
+   "off_below": 0.5,
+   "on_above": 0.7
+  },
+  {
+   "return": 93.70341880341884,
+   "off_below": 0.5,
+   "on_above": 0.75
+  },
+  {
+   "return": 91.54444444444448,
+   "off_below": 0.5,
+   "on_above": 0.8
+  },
+  {
+   "return": 89.54529914529918,
+   "off_below": 0.5,
+   "on_above": 0.85
+  },
+  {
+   "return": 87.8820512820513,
+   "off_below": 0.5,
+   "on_above": 0.9
+  },
+  {
+   "return": 84.66837606837609,
+   "off_below": 0.5,
+   "on_above": 0.95
+  },
+  {
+   "return": 80.81709401709402,
+   "off_below": 0.5,
+   "on_above": 1.0
+  },
+  {
+   "return": 103.94358974358981,
+   "off_below": 0.55,
+   "on_above": 0.6
+  },
+  {
+   "return": 99.52136752136758,
+   "off_below": 0.55,
+   "on_above": 0.65
+  },
+  {
+   "return": 95.67521367521373,
+   "off_below": 0.55,
+   "on_above": 0.7
+  },
+  {
+   "return": 93.76837606837611,
+   "off_below": 0.55,
+   "on_above": 0.75
+  },
+  {
+   "return": 92.31196581196585,
+   "off_below": 0.55,
+   "on_above": 0.8
+  },
+  {
+   "return": 89.51880341880346,
+   "off_below": 0.55,
+   "on_above": 0.85
+  },
+  {
+   "return": 87.50512820512823,
+   "off_below": 0.55,
+   "on_above": 0.9
+  },
+  {
+   "return": 85.6649572649573,
+   "off_below": 0.55,
+   "on_above": 0.95
+  },
+  {
+   "return": 81.31794871794872,
+   "off_below": 0.55,
+   "on_above": 1.0
+  },
+  {
+   "return": 99.75299145299154,
+   "off_below": 0.6,
+   "on_above": 0.65
+  },
+  {
+   "return": 95.11794871794876,
+   "off_below": 0.6,
+   "on_above": 0.7
+  },
+  {
+   "return": 92.64444444444449,
+   "off_below": 0.6,
+   "on_above": 0.75
+  },
+  {
+   "return": 92.35641025641027,
+   "off_below": 0.6,
+   "on_above": 0.8
+  },
+  {
+   "return": 87.94358974358977,
+   "off_below": 0.6,
+   "on_above": 0.85
+  },
+  {
+   "return": 86.57948717948719,
+   "off_below": 0.6,
+   "on_above": 0.9
+  },
+  {
+   "return": 84.03504273504274,
+   "off_below": 0.6,
+   "on_above": 0.95
+  },
+  {
+   "return": 79.07094017094018,
+   "off_below": 0.6,
+   "on_above": 1.0
+  }
+ ]
+}

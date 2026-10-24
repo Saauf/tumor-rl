@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+build/
+dist/
+# Trial data is downloaded by each user (python -m tumor_rl.data --download), not redistributed.
+data/raw/
+results/*.log

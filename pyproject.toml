@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tumor-rl"
+version = "0.1.0"
+description = "Reinforcement learning for prostate cancer treatment scheduling, on digital twins fitted to real intermittent androgen deprivation trial patients."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = [
+    "gymnasium>=0.29",
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "matplotlib>=3.7",
+    "stable-baselines3>=2.2",
+    "torch>=2.0",
+]
+keywords = ["reinforcement-learning", "oncology", "adaptive-therapy", "prostate-cancer", "mathematical-oncology"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,961 @@
+{
+ "held_out_bruchovsky": {
+  "Continuous (standard)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 114.0625,
+   "progression_free_10y": 0.9375,
+   "fraction_treated": 1.0,
+   "per_patient": [
+    {
+     "patient": "bruchovsky-003",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-093",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-013",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-040",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-061",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-087",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-024",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-002",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-056",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-042",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-050",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-071",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-106",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-085",
+     "outcome": "relapse",
+     "ttp_months": 25.0,
+     "progressed": 1.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-011",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "bruchovsky-041",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    }
+   ]
+  },
+  "Adaptive (Zhang 2017)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 85.175,
+   "progression_free_10y": 0.684375,
+   "fraction_treated": 0.2736147011625281,
+   "per_patient": [
+    {
+     "patient": "bruchovsky-003",
+     "outcome": "no_relapse",
+     "ttp_months": 113.2,
+     "progressed": 0.1,
+     "fraction_treated": 0.3253650315547906
+    },
+    {
+     "patient": "bruchovsky-093",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.18
+    },
+    {
+     "patient": "bruchovsky-013",
+     "outcome": "no_relapse",
+     "ttp_months": 4.6,
+     "progressed": 1.0,
+     "fraction_treated": 0.38666666666666677
+    },
+    {
+     "patient": "bruchovsky-040",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.12416666666666665
+    },
+    {
+     "patient": "bruchovsky-061",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.3308333333333333
+    },
+    {
+     "patient": "bruchovsky-087",
+     "outcome": "no_relapse",
+     "ttp_months": 7.7,
+     "progressed": 1.0,
+     "fraction_treated": 0.48142857142857143
+    },
+    {
+     "patient": "bruchovsky-024",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.07833333333333331
+    },
+    {
+     "patient": "bruchovsky-002",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.15333333333333332
+    },
+    {
+     "patient": "bruchovsky-056",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.64375
+    },
+    {
+     "patient": "bruchovsky-042",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.05375
+    },
+    {
+     "patient": "bruchovsky-050",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.017083333333333332
+    },
+    {
+     "patient": "bruchovsky-071",
+     "outcome": "no_relapse",
+     "ttp_months": 27.8,
+     "progressed": 0.95,
+     "fraction_treated": 0.45580352037899213
+    },
+    {
+     "patient": "bruchovsky-106",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.18249999999999997
+    },
+    {
+     "patient": "bruchovsky-085",
+     "outcome": "relapse",
+     "ttp_months": 4.8,
+     "progressed": 1.0,
+     "fraction_treated": 0.3933333333333334
+    },
+    {
+     "patient": "bruchovsky-011",
+     "outcome": "relapse",
+     "ttp_months": 4.7,
+     "progressed": 1.0,
+     "fraction_treated": 0.5585714285714285
+    },
+    {
+     "patient": "bruchovsky-041",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.012916666666666668
+    }
+   ]
+  },
+  "Intermittent (trial protocol)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 107.80625,
+   "progression_free_10y": 0.875,
+   "fraction_treated": 0.4609144736842105,
+   "per_patient": [
+    {
+     "patient": "bruchovsky-003",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5504166666666668
+    },
+    {
+     "patient": "bruchovsky-093",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4654166666666667
+    },
+    {
+     "patient": "bruchovsky-013",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.7
+    },
+    {
+     "patient": "bruchovsky-040",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.07499999999999998
+    },
+    {
+     "patient": "bruchovsky-061",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.2345833333333333
+    },
+    {
+     "patient": "bruchovsky-087",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.7933333333333332
+    },
+    {
+     "patient": "bruchovsky-024",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4283333333333334
+    },
+    {
+     "patient": "bruchovsky-002",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.08208333333333331
+    },
+    {
+     "patient": "bruchovsky-056",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.07499999999999998
+    },
+    {
+     "patient": "bruchovsky-042",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.1408333333333333
+    },
+    {
+     "patient": "bruchovsky-050",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.8154166666666667
+    },
+    {
+     "patient": "bruchovsky-071",
+     "outcome": "no_relapse",
+     "ttp_months": 19.9,
+     "progressed": 1.0,
+     "fraction_treated": 0.4746315789473683
+    },
+    {
+     "patient": "bruchovsky-106",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.3820833333333334
+    },
+    {
+     "patient": "bruchovsky-085",
+     "outcome": "relapse",
+     "ttp_months": 25.0,
+     "progressed": 1.0,
+     "fraction_treated": 0.61
+    },
+    {
+     "patient": "bruchovsky-011",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.8637500000000001
+    },
+    {
+     "patient": "bruchovsky-041",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.6837500000000001
+    }
+   ]
+  },
+  "Threshold rule tuned on training patients (0.55 / 0.60)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 111.546875,
+   "progression_free_10y": 0.9125,
+   "fraction_treated": 0.43105009799801,
+   "per_patient": [
+    {
+     "patient": "bruchovsky-003",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.3845833333333334
+    },
+    {
+     "patient": "bruchovsky-093",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.3725
+    },
+    {
+     "patient": "bruchovsky-013",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4575
+    },
+    {
+     "patient": "bruchovsky-040",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.2966666666666667
+    },
+    {
+     "patient": "bruchovsky-061",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4729166666666667
+    },
+    {
+     "patient": "bruchovsky-087",
+     "outcome": "no_relapse",
+     "ttp_months": 115.25,
+     "progressed": 0.05,
+     "fraction_treated": 0.5343333333333333
+    },
+    {
+     "patient": "bruchovsky-024",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4008333333333334
+    },
+    {
+     "patient": "bruchovsky-002",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.24249999999999994
+    },
+    {
+     "patient": "bruchovsky-056",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.7841666666666666
+    },
+    {
+     "patient": "bruchovsky-042",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.31333333333333335
+    },
+    {
+     "patient": "bruchovsky-050",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.2004166666666667
+    },
+    {
+     "patient": "bruchovsky-071",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.6475
+    },
+    {
+     "patient": "bruchovsky-106",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.3404166666666667
+    },
+    {
+     "patient": "bruchovsky-085",
+     "outcome": "relapse",
+     "ttp_months": 26.65,
+     "progressed": 1.0,
+     "fraction_treated": 0.664102564102564
+    },
+    {
+     "patient": "bruchovsky-011",
+     "outcome": "relapse",
+     "ttp_months": 82.85,
+     "progressed": 0.35,
+     "fraction_treated": 0.6579490038655961
+    },
+    {
+     "patient": "bruchovsky-041",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.12708333333333333
+    }
+   ]
+  },
+  "RL agent (PPO)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 114.0625,
+   "progression_free_10y": 0.9375,
+   "fraction_treated": 0.6151510416666667,
+   "per_patient": [
+    {
+     "patient": "bruchovsky-003",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5650000000000001
+    },
+    {
+     "patient": "bruchovsky-093",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4783333333333332
+    },
+    {
+     "patient": "bruchovsky-013",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4883333333333333
+    },
+    {
+     "patient": "bruchovsky-040",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.6045833333333333
+    },
+    {
+     "patient": "bruchovsky-061",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.7979166666666667
+    },
+    {
+     "patient": "bruchovsky-087",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5587500000000001
+    },
+    {
+     "patient": "bruchovsky-024",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5162500000000001
+    },
+    {
+     "patient": "bruchovsky-002",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.6558333333333334
+    },
+    {
+     "patient": "bruchovsky-056",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.87375
+    },
+    {
+     "patient": "bruchovsky-042",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.69
+    },
+    {
+     "patient": "bruchovsky-050",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.3416666666666667
+    },
+    {
+     "patient": "bruchovsky-071",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.7975000000000001
+    },
+    {
+     "patient": "bruchovsky-106",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5195833333333334
+    },
+    {
+     "patient": "bruchovsky-085",
+     "outcome": "relapse",
+     "ttp_months": 25.0,
+     "progressed": 1.0,
+     "fraction_treated": 0.702
+    },
+    {
+     "patient": "bruchovsky-011",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.7104166666666667
+    },
+    {
+     "patient": "bruchovsky-041",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5425
+    }
+   ]
+  }
+ },
+ "external_shaw": {
+  "Continuous (standard)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 120.0,
+   "progression_free_10y": 1.0,
+   "fraction_treated": 1.0,
+   "per_patient": [
+    {
+     "patient": "shaw-1003",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-1018",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-1916",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-5211",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-5251",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-5256",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-5257",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-5259",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-5263",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    }
+   ]
+  },
+  "Adaptive (Zhang 2017)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 81.97777777777777,
+   "progression_free_10y": 0.6611111111111111,
+   "fraction_treated": 0.18168274258870587,
+   "per_patient": [
+    {
+     "patient": "shaw-1003",
+     "outcome": "no_relapse",
+     "ttp_months": 8.2,
+     "progressed": 1.0,
+     "fraction_treated": 0.5012121212121212
+    },
+    {
+     "patient": "shaw-1018",
+     "outcome": "no_relapse",
+     "ttp_months": 119.45,
+     "progressed": 0.05,
+     "fraction_treated": 0.2984288990825688
+    },
+    {
+     "patient": "shaw-1916",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.026250000000000002
+    },
+    {
+     "patient": "shaw-5211",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.012916666666666668
+    },
+    {
+     "patient": "shaw-5251",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.008333333333333333
+    },
+    {
+     "patient": "shaw-5256",
+     "outcome": "relapse",
+     "ttp_months": 4.2,
+     "progressed": 1.0,
+     "fraction_treated": 0.5
+    },
+    {
+     "patient": "shaw-5257",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.01
+    },
+    {
+     "patient": "shaw-5259",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.008333333333333333
+    },
+    {
+     "patient": "shaw-5263",
+     "outcome": "no_relapse",
+     "ttp_months": 5.95,
+     "progressed": 1.0,
+     "fraction_treated": 0.26967032967032967
+    }
+   ]
+  },
+  "Intermittent (trial protocol)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 109.66666666666667,
+   "progression_free_10y": 0.8888888888888888,
+   "fraction_treated": 0.5996296296296297,
+   "per_patient": [
+    {
+     "patient": "shaw-1003",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-1018",
+     "outcome": "no_relapse",
+     "ttp_months": 27.0,
+     "progressed": 1.0,
+     "fraction_treated": 0.33333333333333326
+    },
+    {
+     "patient": "shaw-1916",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 1.0
+    },
+    {
+     "patient": "shaw-5211",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.07499999999999998
+    },
+    {
+     "patient": "shaw-5251",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.99875
+    },
+    {
+     "patient": "shaw-5256",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.6925000000000001
+    },
+    {
+     "patient": "shaw-5257",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.675
+    },
+    {
+     "patient": "shaw-5259",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.2325
+    },
+    {
+     "patient": "shaw-5263",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.38958333333333334
+    }
+   ]
+  },
+  "Threshold rule tuned on training patients (0.55 / 0.60)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 117.77777777777777,
+   "progression_free_10y": 0.9777777777777779,
+   "fraction_treated": 0.24537072787072786,
+   "per_patient": [
+    {
+     "patient": "shaw-1003",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5749999999999998
+    },
+    {
+     "patient": "shaw-1018",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.35458333333333325
+    },
+    {
+     "patient": "shaw-1916",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.31916666666666665
+    },
+    {
+     "patient": "shaw-5211",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.05375
+    },
+    {
+     "patient": "shaw-5251",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.008333333333333333
+    },
+    {
+     "patient": "shaw-5256",
+     "outcome": "relapse",
+     "ttp_months": 100.0,
+     "progressed": 0.2,
+     "fraction_treated": 0.5525032175032175
+    },
+    {
+     "patient": "shaw-5257",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.008333333333333333
+    },
+    {
+     "patient": "shaw-5259",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.008333333333333333
+    },
+    {
+     "patient": "shaw-5263",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.3283333333333333
+    }
+   ]
+  },
+  "RL agent (PPO)": {
+   "median_ttp_months": 120.0,
+   "mean_ttp_months": 120.0,
+   "progression_free_10y": 1.0,
+   "fraction_treated": 0.3003703703703704,
+   "per_patient": [
+    {
+     "patient": "shaw-1003",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5929166666666668
+    },
+    {
+     "patient": "shaw-1018",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4220833333333333
+    },
+    {
+     "patient": "shaw-1916",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.4691666666666666
+    },
+    {
+     "patient": "shaw-5211",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.20000000000000004
+    },
+    {
+     "patient": "shaw-5251",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.022083333333333337
+    },
+    {
+     "patient": "shaw-5256",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.5891666666666667
+    },
+    {
+     "patient": "shaw-5257",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.02125
+    },
+    {
+     "patient": "shaw-5259",
+     "outcome": "relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.03375
+    },
+    {
+     "patient": "shaw-5263",
+     "outcome": "no_relapse",
+     "ttp_months": 120.0,
+     "progressed": 0.0,
+     "fraction_treated": 0.35291666666666666
+    }
+   ]
+  }
+ }
+}
